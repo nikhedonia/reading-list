@@ -4,6 +4,9 @@ list of things to read and watch
 # ASK HN Best CS papers of 2017 
 https://news.ycombinator.com/item?id=16035402
 
+# Homotopy Type Theory and the Univalence Axiom
+https://math.uchicago.edu/~may/REU2015/REUPapers/Macor.pdf
+
 # Effective Programs - 10 Years of Clojure - Rich Hickey
 https://www.youtube.com/watch?v=2V1FtfBDsLU
 
