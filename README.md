@@ -7,6 +7,9 @@ https://news.ycombinator.com/item?id=16035402
 # Machine Learning Cheatsheets
 https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
 
+# Top 66 Developer resources
+https://hackernoon.com/the-top-66-developer-resources-from-2017-e82531365e6d
+
 # Homotopy Type Theory and Higher Inductive Types
 http://www.science4all.org/article/homotopy-type-theory/
 
