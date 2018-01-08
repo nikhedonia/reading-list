@@ -4,6 +4,9 @@ list of things to read and watch
 # ASK HN Best CS papers of 2017 
 https://news.ycombinator.com/item?id=16035402
 
+# Machine Learning Cheatsheets
+https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
+
 # Homotopy Type Theory and Higher Inductive Types
 http://www.science4all.org/article/homotopy-type-theory/
 
