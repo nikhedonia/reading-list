@@ -1,6 +1,9 @@
 # Reading-list
 list of things to read and watch
 
+# Eventstorming
+https://www.youtube.com/watch?v=bXm8Cznyb_s
+
 # Linear Types
 https://www.youtube.com/watch?v=t0mhvd3-60Y
 
