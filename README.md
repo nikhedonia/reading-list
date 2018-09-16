@@ -1,6 +1,12 @@
 # Reading-list
 list of things to read and watch
 
+# Linear Types
+https://www.youtube.com/watch?v=t0mhvd3-60Y
+
+#  Hartmann-grobman theorem
+https://news.ycombinator.com/item?id=17998708
+
 # ASK HN Best CS papers of 2017 
 https://news.ycombinator.com/item?id=16035402
 
